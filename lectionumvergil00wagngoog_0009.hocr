@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lectionumvergil00wagngoog_0009.png"; bbox 0 0 2960 4898; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 439 4151 1353 4233">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 439 4151 1353 4233">
+     <span class='ocr_line' id='line_1_1' title="bbox 439 4151 1353 4233; baseline -0.002 -19"><span class='ocrx_word' id='word_1_1' title='bbox 439 4155 592 4232; x_wconf 81' lang='lat' dir='ltr'><strong>Rogamus</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 613 4173 682 4228; x_wconf 82' lang='lat' dir='ltr'>eos,</span> <span class='ocrx_word' id='word_1_3' title='bbox 705 4153 756 4233; x_wconf 85' lang='lat' dir='ltr'><strong>qui</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 780 4151 853 4214; x_wconf 76' lang='lat' dir='ltr'><strong>haee</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 873 4153 979 4213; x_wconf 84' lang='lat' dir='ltr'>lecturi</span> <span class='ocrx_word' id='word_1_6' title='bbox 999 4160 1086 4228; x_wconf 86' lang='lat' dir='ltr'>sunt,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1108 4159 1142 4212; x_wconf 84' lang='lat' dir='ltr'><strong>ut</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1163 4159 1234 4212; x_wconf 78' lang='lat' dir='ltr'>ante</span> <span class='ocrx_word' id='word_1_9' title='bbox 1255 4171 1353 4212; x_wconf 84' lang='lat' dir='ltr'><strong>emen-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 398 4257 1354 4342">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 398 4257 1354 4342">
+     <span class='ocr_line' id='line_1_2' title="bbox 398 4257 1354 4342; baseline -0.004 -18"><span class='ocrx_word' id='word_1_10' title='bbox 398 4259 471 4324; x_wconf 78' lang='lat' dir='ltr'><strong>dent</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 491 4266 603 4334; x_wconf 75' lang='lat' dir='ltr'><strong>errata,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 629 4278 758 4342; x_wconf 83' lang='lat' dir='ltr'><strong>quorum</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 778 4257 905 4322; x_wconf 79' lang='lat' dir='ltr'><strong>indicem</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 926 4259 995 4322; x_wconf 76' lang='lat' dir='ltr'>huic</span> <span class='ocrx_word' id='word_1_15' title='bbox 1015 4258 1113 4324; x_wconf 77' lang='lat' dir='ltr'>libello</span> <span class='ocrx_word' id='word_1_16' title='bbox 1138 4257 1354 4320; x_wconf 80' lang='lat' dir='ltr'>subiunximus.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1484 4898">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1484 4898">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1484 4898; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1484 4898; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
